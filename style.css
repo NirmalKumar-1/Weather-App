@@ -163,6 +163,7 @@ body {
     .wrapper {
         min-width: 380px;
         font-size: 14px;
+        padding: 10px;
     }
 }
 
