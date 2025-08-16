@@ -165,5 +165,8 @@ body {
         font-size: 14px;
         padding: 20px;
     }
+    .search-container input {
+        padding-right: 0;
+    }
 }
 
