@@ -139,18 +139,6 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.1em;
 }
-
-/* media queries */
-/* @media (max-width: 680px){
-    .wrapper {
-        scale: 0.8;
-    }
-}
-@media (max-width: 550px){
-    .wrapper {
-        scale: 0.7;
-    }
-} */
 @media (max-width: 500px){
     .shape-1 {
         right: 2em;
@@ -165,8 +153,12 @@ body {
         font-size: 14px;
         padding: 20px;
     }
+    .search-container {
+        width: 100%;
+    }
     .search-container input {
         padding-right: 0;
+        width: 90%;
     }
 }
 
