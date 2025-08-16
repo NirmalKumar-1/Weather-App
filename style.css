@@ -153,20 +153,6 @@ body {
 }
 @media (max-width: 500px){
     .shape-1 {
-        right: -2em;
-        top: 1.8em;
-    }
-    .shape-2 {
-        bottom: -1em;
-        left: -2.5em;
-    }
-    .wrapper {
-        min-width: 380px;
-        font-size: 14px;
-    }
-}
-@media (max-width: 320px){
-    .shape-1 {
         right: 2em;
         top: 1.8em;
     }
@@ -174,4 +160,9 @@ body {
         bottom: 2em;
         left: 2.5em;
     }
+    .wrapper {
+        min-width: 380px;
+        font-size: 14px;
+    }
 }
+
